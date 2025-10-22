@@ -1,0 +1,24 @@
+@media (max-width:780px) {
+    .mitik {
+        width: 300px;
+        height: 150px;
+    }
+    .yogipng {
+        width: 100px;
+        height: 150px;
+    }
+    h1 {
+        font-size: 1em;
+    }
+    .isi {
+        width: 300px;
+        height: 200px;
+        grid-template-columns: 1fr 1fr;
+    }
+    .content {
+        margin: 10rem;
+    }
+    footer {
+        bottom: 0;
+    }
+}
